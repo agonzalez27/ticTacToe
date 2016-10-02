@@ -1,0 +1,99 @@
+
+
+#board {
+  border: 5px solid red;
+  height: 650px;
+  width: 650px;
+  display: block;
+  margin-top: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+  padding: 10px;
+  text-align: center;
+}
+
+.topRow {
+  border-bottom: 5px solid blue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.middleRow {
+  border-bottom: 5px solid blue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.bottomRow {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.leftColumn {
+  border-right: 5px solid blue;
+}
+
+.middleColumn {
+  border-right: 5px solid blue;
+}
+
+
+#TL {
+  background-color: yellow;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+
+#TM {
+  background-color: orange;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#TR {
+  background-color: brown;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#ML {
+  background-color: green;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#MM {
+  background-color: Blue;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#MR {
+  background-color: red;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#BL {
+  background-color: yellow;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#BM {
+  background-color: orange;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
+#BR {
+  background-color: brown;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+}
